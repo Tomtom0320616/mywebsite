@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Tomtom0320</title>
+    <link href="https://tomtom0320616.github.io/mywebsite/feed.xml" rel="self" />
+    <link href="https://tomtom0320616.github.io/mywebsite" />
+    <updated>2026-10-23T11:28:57+02:00</updated>
+    <author>
+        <name>Shengzhe Hu</name>
+    </author>
+    <id>https://tomtom0320616.github.io/mywebsite</id>
+
+    <entry>
+        <title>Tomtom&#x27;s best video games</title>
+        <author>
+            <name>Shengzhe Hu</name>
+        </author>
+        <link href="https://tomtom0320616.github.io/mywebsite/tomtoms-best-video-games/"/>
+        <id>https://tomtom0320616.github.io/mywebsite/tomtoms-best-video-games/</id>
+
+        <updated>2026-10-13T08:33:04+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Welcome! I’m Tomtom, and this site is my personal top 5 list of favorite games. Each one has a short background, a plot summary, and my review. Scroll down to see the full ranking, or click any game to read more. The Ranking #1 Genshin&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Welcome! I’m Tomtom, and this site is my personal top 5 list of favorite games. Each one has a short background, a plot summary, and my review. Scroll down to see the full ranking, or click any game to read more.</p>
+<p dir="ltr"><strong>The Ranking</strong></p>
+<p dir="ltr">#1 Genshin Impact: A huge fantasy world full of exploration, elemental combat, and great music.</p>
+<p dir="ltr">#2 Metal Gear Solid V: The Phantom Pain: Stealth gameplay with freedom to tackle every mission your own way.</p>
+<p dir="ltr">#3 Wuthering Waves: Fast, stylish combat in a post-apocalyptic world.</p>
+<p dir="ltr">#4 Ghost of Tsushima: A gorgeous samurai story with cinematic duels.</p>
+<p dir="ltr">#5 Arknights: Endfield: Squad combat mixed with factory building on a new frontier planet.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
